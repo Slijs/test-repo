@@ -1,2 +1,2 @@
 # test-repo
-Test repo for coursera data scientists toolbox
+This is a test repo for coursera data scientists toolbox
